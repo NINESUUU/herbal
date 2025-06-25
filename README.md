@@ -1,4 +1,4 @@
-# Herbal scanning - ทีม Frozen
+# Herbal scanning
 
 ## 👥 Team Members
 - นายรัชชานนท์ คำสัตย์ 66025234   Role dev
