@@ -1,5 +1,3 @@
-markdown
-CopyEdit
 # Herbal scanning - ทีม Frozen
 
 ## 👥 Team Members
