@@ -1,6 +1,6 @@
 markdown
 CopyEdit
-# EduSync - ทีม Green Team
+# Herbal scanning - ทีม Frozen
 
 ## 👥 Team Members
 - นายรัชชานนท์ คำสัตย์ 66025234   Role dev
